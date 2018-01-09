@@ -1,0 +1,284 @@
+{
+  "settings": {
+    "name": "Social Shares",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      }
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 2,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showInfo": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "Shareable Images | Holidays",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box22",
+          "_anchor": "msg-box22-1"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "filter": false,
+            "paddingTop": 0,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-31dd9038f085-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-31dd9038f085-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-6047e86defd9-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6047e86defd9-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1746-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1746-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1748-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1748-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-4e6d3ec04094-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4e6d3ec04094-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1799-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1799-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-0243c46d6fc2-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0243c46d6fc2-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-97146818b7f7-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-97146818b7f7-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1762-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1762-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1841-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1841-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-ff632a3f5d13-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-ff632a3f5d13-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1da61261bccd-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1da61261bccd-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1826-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1826-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1832-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1832-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1816-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1816-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-1822-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1822-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-0"
+        }
+      ]
+    }
+  }
+}
