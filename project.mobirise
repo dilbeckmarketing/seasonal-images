@@ -17,7 +17,7 @@
       }
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -65,7 +65,7 @@
               "loop": false
             }
           },
-          "title1": "Shareable Images | Holidays",
+          "title1": "Dilbeck Shareable Images | Holidays",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
           "media2": {
